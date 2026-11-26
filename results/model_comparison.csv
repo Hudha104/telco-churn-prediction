@@ -1,0 +1,7 @@
+Model,Setting,Accuracy,Precision,Recall,F1,ROC-AUC
+KNN,Default,0.763,0.5538,0.5508,0.5523,0.7919
+KNN,Tuned,0.7956,0.6236,0.5802,0.6011,0.8327
+Logistic Regression,Default,0.8055,0.6582,0.5561,0.6029,0.8422
+Logistic Regression,Tuned,0.7438,0.5113,0.7834,0.6188,0.8412
+Random Forest,Default,0.7956,0.6473,0.5053,0.5676,0.8258
+Random Forest,Tuned,0.7601,0.5335,0.7674,0.6294,0.8429
